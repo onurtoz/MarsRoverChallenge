@@ -1,0 +1,52 @@
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/MarsRover.deps.json
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.json
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.dev.json
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/MarsRover.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/ref/MarsRover.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/MarsRover.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfoInputs.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfo.cs
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.csproj.CoreCompileInputs.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/ref/MarsRover.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.genruntimeconfig.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/ConsoleTables.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Common.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Models.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Common.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Models.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/bin/Debug/net5.0/Services.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.csproj.AssemblyReference.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/MarsRover/obj/Debug/net5.0/MarsRover.csproj.CopyComplete
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/MarsRover.deps.json
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.json
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.dev.json
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/MarsRover.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/ref/MarsRover.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/MarsRover.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/ConsoleTables.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Common.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Models.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Common.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Models.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/bin/Debug/net5.0/Services.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.csproj.AssemblyReference.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfoInputs.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfo.cs
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.csproj.CoreCompileInputs.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.csproj.CopyComplete
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/ref/MarsRover.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/MarsRover/obj/Debug/net5.0/MarsRover.genruntimeconfig.cache

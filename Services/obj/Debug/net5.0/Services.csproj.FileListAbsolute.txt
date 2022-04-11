@@ -1,0 +1,34 @@
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.csproj.AssemblyReference.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.csproj.CoreCompileInputs.cache
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Services.deps.json
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/ref/Services.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Services.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Common.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Models.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Common.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/bin/Debug/net5.0/Models.pdb
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.csproj.CopyComplete
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/ref/Services.dll
+/Users/egitimpc/Desktop/App/HepsiBuradaMarsRover/Services/obj/Debug/net5.0/Services.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Services.deps.json
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/ref/Services.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Services.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Common.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Models.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Common.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/bin/Debug/net5.0/Models.pdb
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.csproj.AssemblyReference.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.csproj.CoreCompileInputs.cache
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.csproj.CopyComplete
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/ref/Services.dll
+/Users/egitimpc/Desktop/MarsRover Challenge/HepsiBuradaMarsRover/MarsRoverChallenge/Services/obj/Debug/net5.0/Services.pdb

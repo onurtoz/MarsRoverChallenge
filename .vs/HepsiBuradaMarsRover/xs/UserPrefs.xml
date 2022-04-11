@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{E179889B-03C4-4A5D-B659-56E0CF6E6BB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/NavigateService/RoverService.cs">
+    <Files>
+      <File FileName="test/MarsRoverTest.cs" Line="101" Column="26" />
+      <File FileName="Models/RoverPostion.cs" Line="1" Column="1" />
+      <File FileName="Services/NavigateService/ValidRover.cs" Line="1" Column="1" />
+      <File FileName="Services/NavigateService/RoverService.cs" Line="45" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HepsiBuradaMarsRover" expanded="True">
+            <Node name="Common" expanded="True">
+              <Node name="Enums" expanded="True" />
+            </Node>
+            <Node name="MarsRover" expanded="True" />
+            <Node name="Models" expanded="True" />
+            <Node name="Services" expanded="True">
+              <Node name="NavigateService" expanded="True">
+                <Node name="RoverService.cs" selected="True" />
+              </Node>
+              <Node name="RoverNavigate" expanded="True" />
+            </Node>
+            <Node name="test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HepsiBuradaMarsRover" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="UnitTest" expanded="True">
+                <Node name="MarsRoverTest" expanded="True">
+                  <Node name="NavigateTest_InvalidCharactersofCommmand" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MarsRover PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
